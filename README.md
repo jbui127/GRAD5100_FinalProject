@@ -1,3 +1,3 @@
 # GRAD5100_FinalProject
 
-This is the repository for GRAD5100 final project.
+This is the repository for GRAD5100 final project by Jimmy Bui.
